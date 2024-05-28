@@ -1,0 +1,32 @@
+metadata_version: 1
+name: Simulator for "Real-time and Energy-aware Scheduling for Edge-to-Cloud Continuum
+  based on Reinforcement Learning"
+description: This study addresses the complex problem of task scheduling and battery
+  management within the context of the Edge-to-Cloud continuum. Our proposed approach
+  incorporates multi-objective optimization, which encompasses power management in
+  addition to real-time processing demands, to ensure both performance and sustainability.
+  Our methodology takes into account the heterogeneity of nodes and dynamically organizes
+  jobs to meet user-specified processing requirements. This is achieved through the
+  utilization of online Reinforcement Learning, a machine learning technique that
+  enables the system to learn and adapt to the dynamic environment in real-time.
+tags:
+- reinforcement learning
+- Edge Computing
+- Cloud Computing
+- energy consumption
+- Simulation Experiment
+- solar energy
+- fog computing
+authors:
+- name: Andrea Panceri
+  affiliations:
+  - name: Sapienza University of Rome
+- name: Roberto Beraldi
+  affiliations:
+  - name: Sapienza University of Rome
+- name: Gabriele Proietti
+  affiliations:
+  - name: Sapienza University of Rome
+corresponding_contributor:
+  name: Andrea Panceri
+  email: panceri.1884749@studenti.uniroma1.it

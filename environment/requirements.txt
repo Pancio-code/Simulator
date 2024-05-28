@@ -1,0 +1,11 @@
+cycler==0.10.0
+kiwisolver
+matplotlib
+numpy
+Pillow
+pandas==2.2.1
+pvlib==0.10.4
+pyparsing==2.4.7
+python-dateutil==2.8.2
+simpy==4.0.1
+six==1.16.0
